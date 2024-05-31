@@ -7,7 +7,7 @@ The library includes several third party libraries like IRC, Google calendar, Gi
 
 ## Getting started
 
-### Prerequisits
+### Prerequisites
 1. [Python-3.6.4](https://www.python.org/downloads/release/python-364/) and above.
 2. [RabbitMQ](https://www.rabbitmq.com/) - for the celery runner.
 3. [MongoDB](https://www.mongodb.com).
